@@ -25,7 +25,7 @@ Desenvolvendo habilidades adquiridas no curso de formação   [Formação Fullst
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub: (https://rleopioneer.github.io/qr_code/)
 
 ## Meu Processo
 
