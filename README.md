@@ -17,13 +17,8 @@ Desenvolvendo habilidades adquiridas no curso de formação   [Formação Fullst
   - [Recursos Úteis](#useful-resources)
 - [Autor](#author)
 
-## Visão Geral
 
-### Screenshot
-
-![](C:\Users\ramon\Workspace\FFSJS\Projetos\frontend_mentor\qr-code-component-main\.screenshot.png)
-
-### Links
+## Links
 
 - GitHub: (https://rleopioneer.github.io/qr_code/)
 
